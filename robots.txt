@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shravancode7-oss.github.io/sitemap.xml
